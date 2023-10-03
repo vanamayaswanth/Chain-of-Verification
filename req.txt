@@ -1,0 +1,4 @@
+ipykernel==6.25.2
+langchain==0.0.306
+openai==0.28.1
+typing==3.7.4.3
