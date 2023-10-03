@@ -12,7 +12,7 @@ CoVe is a Python project that leverages OpenAI's GPT-3 language model to create 
 - [Usage](#usage)
 - [Custom Memory](#custom-memory)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Getting Started
 
@@ -73,8 +73,6 @@ CoVe supports custom memory implementations for storing and retrieving informati
 
 Contributions are welcome! If you have ideas for improvements or encounter issues, please open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 `
 
