@@ -23,7 +23,7 @@ CoVe allows you to follow a structured process to answer questions and verify in
 
 Before using CoVe, ensure you have the following prerequisites installed:
 
-- Python 3.6 or later
+- Python 3.8.2 < 3.9 or later 
 - Pip for package management
 
 ## Installation
@@ -33,7 +33,7 @@ To install CoVe and its dependencies, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/CoVe.git
+   git clone https://github.com/vanamayaswanth/Chain-of-Verification.git
    cd CoVe
    ```
 
