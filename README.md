@@ -77,7 +77,7 @@ Contributions are welcome! If you have ideas for improvements or encounter issue
 ## Note
 
 
-purely reflecting the langchain docs fix bug and improvement
+purely reflecting the langchain custom verification docs fix bug and improvement
 
 
 
