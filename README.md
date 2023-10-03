@@ -67,7 +67,7 @@ To use CoVe, follow these steps:
 
 ## Custom Memory
 
-CoVe supports custom memory implementations for storing and retrieving information during conversations. You can customize the memory functionality by implementing a custom memory class, as shown in the provided example.
+CoVe supports custom memory implementations for storing and retrieving information during verification. You can customize the memory functionality by implementing a custom memory class, as shown in the provided example.
 
 ## Contributing
 
