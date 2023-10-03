@@ -74,5 +74,9 @@ CoVe supports custom memory implementations for storing and retrieving informati
 Contributions are welcome! If you have ideas for improvements or encounter issues, please open an issue or submit a pull request.
 
 
-`
+## Note
+
+'''
+purely reflecting the langchain docs fix bug and improvemnt 
+
 
