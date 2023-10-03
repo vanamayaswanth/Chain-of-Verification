@@ -2,7 +2,7 @@
 
 # Chain of Verification (CoVe)
 
-CoVe is a Python project that leverages OpenAI's GPT-3 language model to create a chain of verification for answering questions, fact-checking statements, and generating verified responses. This project is designed to assist in providing well-researched and factually accurate answers to questions.
+CoVe is a Python project that leverages OpenAI's GPT-3.5 and other language models to create a chain of verification for answering questions, fact-checking statements, and generating verified responses. This project is designed to assist in providing well-researched and factually accurate answers to questions.
 
 ## Table of Contents
 
