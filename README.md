@@ -77,6 +77,8 @@ Contributions are welcome! If you have ideas for improvements or encounter issue
 ## Note
 
 '''
-purely reflecting the langchain docs fix bug and improvemnt 
+purely reflecting the langchain docs fix bug and improvement
+
+'''
 
 
