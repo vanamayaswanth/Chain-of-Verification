@@ -46,7 +46,7 @@ To install CoVe and its dependencies, follow these steps:
 3. Install the required Python packages:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r req.txt
    ```
 
 ## Usage
